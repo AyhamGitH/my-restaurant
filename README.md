@@ -24,4 +24,4 @@
 ## Link to instegram page
 [Click to go to instagram page](https://www.instagram.com/explore/tags/beliton_restaurant/)
 ## Wireframe for Website
-![](/Images/Screenshot%202023-05-09%20025145.png)
+![](/Images/Screenshot%202023-05-09%20184550.jpg)
